@@ -71,3 +71,75 @@ Buku:
 "Python Machine Learning" oleh Sebastian Raschka.
 Website: Coursera, Udemy, edX, Kaggle.
 Tools: Google Colab (gratis untuk coding AI), Jupyter Notebook.
+
+PEMBELAJARA AI
+
+Belajar Artificial Intelligence (AI) secara otodidak memerlukan pendekatan sistematis karena bidang ini mencakup berbagai topik yang kompleks. Berikut adalah langkah-langkah yang dapat diikuti untuk pemula:
+
+1. Dasar-dasar Pemrograman
+AI erat kaitannya dengan pemrograman. Untuk itu, mulailah dengan:
+
+Bahasa Pemrograman: Python adalah pilihan terbaik karena populer dalam pengembangan AI.
+Topik yang Dipelajari:
+Variabel, tipe data, dan struktur kontrol (if-else, loop).
+Fungsi dan modul.
+Manipulasi data menggunakan pustaka seperti NumPy dan Pandas.
+Rekomendasi Belajar:
+
+FreeCodeCamp Python Tutorial
+Dokumentasi resmi Python
+2. Matematika Dasar
+AI memerlukan pemahaman matematika untuk memahami algoritma dan model. Fokus pada:
+
+Aljabar Linear: Matriks, vektor, dan transformasi.
+Kalkulus Dasar: Diferensial dan integral untuk optimasi model.
+Statistika dan Probabilitas: Distribusi data, mean, variansi, regresi, dan peluang.
+Logika Matematika: Pemikiran logis untuk algoritma AI.
+Rekomendasi Belajar:
+
+Buku “Linear Algebra and Its Applications” (David C. Lay)
+Khan Academy (Algebra, Kalkulus, dan Statistika)
+3. Machine Learning (ML)
+ML adalah fondasi utama AI. Fokus pada:
+
+Konsep Dasar: Supervised learning, unsupervised learning, dan reinforcement learning.
+Algoritma Dasar:
+Regresi Linear dan Logistik
+Decision Trees
+K-Nearest Neighbors (KNN)
+Clustering (K-Means)
+Neural Networks sederhana
+Framework: Pelajari pustaka seperti Scikit-learn, TensorFlow, atau PyTorch.
+Rekomendasi Belajar:
+
+Kursus "Machine Learning" oleh Andrew Ng di Coursera
+Dokumentasi Scikit-learn
+4. Pemrosesan Data
+Sebelum model AI dapat digunakan, data perlu diproses dan dibersihkan:
+
+Topik: Pembersihan data, transformasi data, normalisasi, dan visualisasi.
+Alat: Pandas, Matplotlib, dan Seaborn.
+Rekomendasi Belajar:
+
+Dataset di Kaggle untuk latihan.
+Tutorial Pandas dan Matplotlib.
+5. Pemahaman Artificial Neural Networks (ANN)
+Jika sudah menguasai dasar-dasar ML, pelajari neural networks:
+
+Topik: Perceptron, backpropagation, dan optimisasi.
+Framework: Gunakan TensorFlow atau PyTorch untuk membangun model sederhana.
+Rekomendasi Belajar:
+
+Buku “Deep Learning” oleh Ian Goodfellow
+TensorFlow for Beginners (dokumentasi resmi)
+6. Proyek Mini
+Setelah mempelajari teori, praktikkan dengan proyek sederhana:
+
+Contoh Proyek:
+Prediksi harga rumah menggunakan regresi.
+Klasifikasi gambar dengan CNN.
+Chatbot sederhana menggunakan NLP.
+7. Sumber Belajar Tambahan
+Website: Kaggle, Towards Data Science, dan Medium.
+Komunitas: Bergabung dengan komunitas seperti GitHub, Reddit, atau Discord AI.
+Kursus Gratis: Fast.ai, Google AI Crash Course.
