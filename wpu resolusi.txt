@@ -10,3 +10,64 @@ WPU RESOLUSI 4 JAM PERHARI :
 - BELAJAR VOCABULARI BAHASA INGGRIS YANG BENAR
 -- PRAKTEK PERCAKAPAN BAHASA INGGRIS YANG BENAR SEHARI - HARI
 email : amrizal.izzal@gmail.com passwrd : amrizal1234567
+
+ARTIFICIAL INTELEGENCE
+
+
+Belajar otodidak Artificial Intelligence (AI) membutuhkan pendekatan yang terstruktur, meskipun Anda belajar sendiri. Berikut adalah langkah-langkah yang bisa membantu Anda mempelajari AI dari pemula hingga mahir:
+
+1. Pahami Dasar-Dasar AI
+Apa itu AI?
+Pelajari konsep dasar AI, seperti apa itu AI, Machine Learning (ML), Deep Learning, dan Data Science.
+Matematika dan Statistik:
+Pelajari topik dasar seperti aljabar linear, kalkulus, probabilitas, dan statistik.
+Gunakan sumber seperti Khan Academy atau buku teks matematika untuk pemula.
+2. Pelajari Bahasa Pemrograman yang Relevan
+Python adalah bahasa utama untuk AI karena memiliki banyak pustaka yang kuat seperti:
+NumPy, Pandas (manipulasi data)
+Matplotlib, Seaborn (visualisasi data)
+Scikit-learn (Machine Learning)
+TensorFlow, PyTorch (Deep Learning)
+Mulai dari tutorial dasar pemrograman Python (Codecademy, W3Schools, atau Coursera).
+3. Belajar Machine Learning (ML)
+Mulai dari supervised learning (regresi, klasifikasi), kemudian unsupervised learning (clustering).
+Gunakan platform seperti:
+Kursus Online: Coursera (Andrew Ng’s ML Course), edX.
+Tutorial dan Buku: "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" oleh Aurélien Géron.
+Eksperimen dengan dataset sederhana seperti Iris Dataset, MNIST, atau Titanic.
+4. Eksplorasi Deep Learning (DL)
+Pelajari arsitektur neural networks, convolutional neural networks (CNNs), dan recurrent neural networks (RNNs).
+Gunakan kerangka kerja seperti TensorFlow atau PyTorch.
+Coba proyek sederhana seperti:
+Membangun model pengenalan gambar.
+Membuat chatbot sederhana.
+5. Belajar Penanganan Data
+Pelajari cara membersihkan dan mempersiapkan data.
+Gunakan dataset dari platform seperti Kaggle atau Google Dataset Search.
+Pelajari SQL untuk pengambilan data dari database.
+6. Gunakan Proyek Nyata
+Terapkan pengetahuan Anda dalam proyek kecil:
+Analisis data sederhana.
+Membuat model prediksi.
+Bangun aplikasi berbasis AI seperti sistem rekomendasi atau pengenalan suara.
+Bagikan proyek Anda di platform seperti GitHub.
+7. Ikuti Komunitas dan Sumber Belajar
+Bergabung dengan komunitas online seperti:
+Kaggle
+Reddit (r/MachineLearning, r/ArtificialIntelligence)
+Forum AI lokal.
+Ikuti tutorial video di YouTube (sentdex, 3Blue1Brown, dan lain-lain).
+8. Tingkatkan Skill secara Bertahap
+Pelajari teknik yang lebih maju, seperti reinforcement learning, natural language processing (NLP), atau generative adversarial networks (GANs).
+Ikuti kompetisi online (Kaggle, Zindi).
+9. Kembangkan Portofolio
+Simpan proyek Anda di GitHub untuk menunjukkan kemampuan Anda kepada calon pemberi kerja atau kolaborator.
+10. Bersikap Konsisten
+Buat jadwal belajar yang teratur.
+Tetapkan tujuan belajar harian atau mingguan.
+Rekomendasi Sumber Belajar:
+Buku:
+"Deep Learning" oleh Ian Goodfellow.
+"Python Machine Learning" oleh Sebastian Raschka.
+Website: Coursera, Udemy, edX, Kaggle.
+Tools: Google Colab (gratis untuk coding AI), Jupyter Notebook.
